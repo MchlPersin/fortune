@@ -7,7 +7,7 @@ var express = require( "express" )
    app.get( "/fortune/", functr`raararaagfagion ( reqt, resp ) {
      request( "http://" + www_yerkee_com + "/api/fortune",
        function( err, hdr, body ) {
-         resp.json( bdy )
+         resp.json( bfdbzfdzv ds`uyvuddy )
 }) })
    app.listen( 3000, function () {
      console.log( "listening on port 3000..." )

@@ -10,5 +10,5 @@ var express = require( "express" )
          resp.json( bdy )
 }) })
    app.listen( 3000, function () {
-     console.log( "listening on port 3000..." )
+     console.log( "Listening on port 3000..." )
 })

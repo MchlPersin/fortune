@@ -1,4 +1,4 @@
-//author: Michael Persin
+//author: Someone Else
 
 var express = require( "express" )
    var request = require( "request" )
